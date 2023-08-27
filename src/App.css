@@ -1,0 +1,10 @@
+.bordered-cell {
+  
+  border-left: 1px solid #D9D9D9; /* Left border */
+  border-right: 1px solid #D9D9D9; /* Right border */
+  border-top: 1px solid #D9D9D9; /* Top border */
+  border-bottom: 1px solid #D9D9D9; /* Bottom border */
+
+}
+
+
