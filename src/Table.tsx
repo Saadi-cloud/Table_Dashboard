@@ -9,7 +9,6 @@ import Paper from '@mui/material/Paper';
 import Button from '@mui/material/Button';
 import IconButton from '@mui/material/IconButton';
 import CancelIcon from '@mui/icons-material/Cancel';
-import Typography from '@mui/material/Typography';
 import './App.css'; // Import your CSS file
 
 function createData(
