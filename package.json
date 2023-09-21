@@ -20,8 +20,11 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-responsive-carousel": "^3.2.23",
+    "react-slick": "^0.29.0",
     "recharts": "^2.8.0",
-    "styled-components": "^5.3.11"
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.3.11",
+    "swiper": "^10.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
